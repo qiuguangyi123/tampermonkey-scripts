@@ -94,6 +94,8 @@ importers:
 
   packages/kill-watermark: {}
 
+  packages/leetcode-random-hot: {}
+
   packages/remove-redirect: {}
 
   shared/rollup-config:

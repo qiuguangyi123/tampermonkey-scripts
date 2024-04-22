@@ -11,7 +11,6 @@ export function createRollupConfig({ pkg, postcss: postcssOptions = {}, plugins 
   const isDevelopment = process.env.BUILD === 'development'
   const filename = `${pkg.name}.user.js`
   const file = path.resolve('../../', isDevelopment ? 'dist-dev' : 'dist', filename)
-
   return defineConfig({
     input: 'src/index.ts',
     output: {

@@ -1,0 +1,21 @@
+{
+  "name": "leetcode-random-hot",
+  "name:zh-CN": "leetcode-random-hot",
+  "name:zh-TW": "leetcode-random-hot",
+  "namespace": "maomao1996.leetcode-random-hot",
+  "version": "0.0.0",
+  "description": "",
+  "author": "",
+  "homepage": "",
+  "supportURL": "",
+  "updateURL": "",
+  "downloadURL": "",
+  "license": "",
+  "match": [
+    "*://leetcode.cn/*"
+  ],
+  "exclude": [],
+  "require": [],
+  "connect": [],
+  "grant": []
+}
