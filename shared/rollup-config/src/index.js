@@ -62,9 +62,9 @@ export function createRollupConfig({ pkg, postcss: postcssOptions = {}, plugins 
         override: {
           /* https://greasyfork.org/zh-CN/help/meta-keys */
           version: pkg.version,
-          author: 'maomao1996',
-          homepage: 'https://github.com/maomao1996/tampermonkey-scripts',
-          supportURL: 'https://github.com/maomao1996/tampermonkey-scripts/issues',
+          author: 'qiuguangyi123',
+          homepage: 'https://github.com/qiuguangyi123/tampermonkey-scripts',
+          supportURL: 'https://github.com/qiuguangyi123/tampermonkey-scripts/issues',
           license: 'MIT',
         },
       }),
